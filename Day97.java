@@ -11,7 +11,7 @@ public class Acaa {
   public static void main(String[] args) {
     Scanner in = new Scanner (System.in);
 
-    System.out.println("Masukkan Sisi : ");
+    System.out.print("Masukkan Sisi : ");
     int a = in.nextInt();
 
     hitungLuas(a);
